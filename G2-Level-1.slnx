@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/N1/" />
+  <Folder Name="/N1/hometasks/" />
+  <Folder Name="/N1/hometasks/tasks/">
+    <Project Path="N1-T1/N1-T1.csproj" />
+  </Folder>
+  <Folder Name="/N2/" />
+  <Folder Name="/N2/Hometask/">
+    <Project Path="N2-HT1/N2-HT1.csproj" Id="196b323d-7b8b-47ac-8c4c-83d78655b282" />
+  </Folder>
+  <Folder Name="/N2/Task/">
+    <Project Path="N2--T1/N2--T1.csproj" Id="e6ccff9b-9eea-462b-9b33-ebc895d35591" />
+  </Folder>
+</Solution>
