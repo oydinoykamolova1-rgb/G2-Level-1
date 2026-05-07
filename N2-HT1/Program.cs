@@ -37,17 +37,17 @@
 
 
 #region 3-masala
-Console.Write("Tog`ri tort burchakni boyini kiriting: ");
-double boyi = double.Parse(Console.ReadLine());
+//Console.Write("Tog`ri tort burchakni boyini kiriting: ");
+//double boyi = double.Parse(Console.ReadLine());
 
 
-Console.Write("Tog`ri tort burchakni enin kiriting: ");
-double eni = double.Parse(Console.ReadLine());
+//Console.Write("Tog`ri tort burchakni enin kiriting: ");
+//double eni = double.Parse(Console.ReadLine());
 
-double yuzasi = boyi * eni;
-double perimetr = 2 * (boyi + eni);
+//double yuzasi = boyi * eni;
+//double perimetr = 2 * (boyi + eni);
 
-Console.WriteLine($"Tog`ri tort burchakni yuzasi: {yuzasi}");
-Console.WriteLine($"Tog`ri tort burchakni perimetr: {perimetr} ");
+//Console.WriteLine($"Tog`ri tort burchakni yuzasi: {yuzasi}");
+//Console.WriteLine($"Tog`ri tort burchakni perimetr: {perimetr} ");
 #endregion
 
