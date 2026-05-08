@@ -11,4 +11,9 @@
   <Folder Name="/N2/Task/">
     <Project Path="N2--T1/N2--T1.csproj" Id="e6ccff9b-9eea-462b-9b33-ebc895d35591" />
   </Folder>
+  <Folder Name="/N3/" />
+  <Folder Name="/N3/hometask/" />
+  <Folder Name="/N3/task/">
+    <Project Path="G2-N3/G2-N3.csproj" Id="4c7d9da0-32cc-4a25-a2b2-509821991db5" />
+  </Folder>
 </Solution>
