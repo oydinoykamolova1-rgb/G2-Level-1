@@ -250,23 +250,25 @@
 
 #region task 7
 
-        //int son;
+//int son;
 
-        //Console.Write("Son kiriting: ");
-        //son = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Son kiriting: ");
+//son = Convert.ToInt32(Console.ReadLine());
 
-        //if (son > 0)
-        //{
-        //    Console.WriteLine("Musbat son");
-        //}
-        //else if (son < 0)
-        //{
-        //    Console.WriteLine("Manfiy son");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("Bu nol");
-        //}
-    
+//if (son > 0)
+//{
+//    Console.WriteLine("Musbat son");
+//}
+//else if (son < 0)
+//{
+//    Console.WriteLine("Manfiy son");
+//}
+//else
+//{
+//    Console.WriteLine("Bu nol");
+//}
+
 
 #endregion
+
+
