@@ -108,18 +108,18 @@
 #endregion
 
 #region masala 9
-//Console.Write("soz kiriting: ");
-//string jumla = Console.ReadLine();
+Console.Write("soz kiriting: ");
+string jumla = Console.ReadLine();
 
-//string[] sozlar = jumla.Split(' ');
+string[] sozlar = jumla.Trim().Split(' ');
 
-//for (int i = 0; i < sozlar.Length; i++)
-//{
-//    sozlar[i] = char.ToUpper(sozlar[i][0]) + sozlar[i].Substring(1).ToLower();
-//}
+for (int i = 0; i < sozlar.Length; i++)
+{
+    sozlar[i] = char.ToUpper(sozlar[i][0]) + sozlar[i].Substring(1).ToLower();
+}
 
-//string natija = string.Join(" ", sozlar);
-//Console.WriteLine(natija);
+string natija = string.Join(" ", sozlar);
+Console.WriteLine(natija);
 #endregion
 
 #region masala 10
