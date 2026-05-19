@@ -25,4 +25,21 @@
   <Folder Name="/N4/Task/">
     <Project Path="G2-N4/G2-N4.csproj" Id="95a59b51-06ae-41b9-8f7c-52a0345b15a3" />
   </Folder>
+  <Folder Name="/N5/" />
+  <Folder Name="/N5/Hometask/" />
+  <Folder Name="/N5/Task/">
+    <Project Path="G2-N5/G2-N5.csproj" Id="ebd217b7-6905-4d15-bbe6-ec88f5c20669" />
+  </Folder>
+  <Folder Name="/N6/" />
+  <Folder Name="/N6/hometask/" />
+  <Folder Name="/N6/Task/">
+    <Project Path="G2-N6/G2-N6.csproj" Id="377f3741-2d42-4831-8948-824f1ae3de5f" />
+  </Folder>
+  <Folder Name="/N7/" />
+  <Folder Name="/N7/hometask/">
+    <Project Path="N7-HT1/N7-HT1.csproj" Id="aaa7294c-85ab-4e64-b2ac-8cd13e516801" />
+  </Folder>
+  <Folder Name="/N7/Task/">
+    <Project Path="G2-N7/G2-N7.csproj" Id="3f45bc35-20a7-4f99-a0f5-b5fe2389c0ec" />
+  </Folder>
 </Solution>
