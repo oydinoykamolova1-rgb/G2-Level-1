@@ -33,6 +33,26 @@
   <Folder Name="/N15/Task/">
     <Project Path="G2-T1/G2-T1.csproj" Id="93e0d7a7-6d1b-4533-8ba6-4a13874bd5ec" />
   </Folder>
+  <Folder Name="/N16/" />
+  <Folder Name="/N16/Task/">
+    <Project Path="N16-T1/N16-T1.csproj" Id="e9c519ea-438c-429a-93eb-2659f7b58b5d" />
+  </Folder>
+  <Folder Name="/N17/" />
+  <Folder Name="/N17/HomeTask/">
+    <Project Path="N17-HT1/N17-HT1.csproj" Id="e3e570d5-8c13-46c3-aab7-107e29994257" />
+    <Project Path="N17-HT2/N17-HT2.csproj" Id="ae1d4afb-3ca4-43e0-ae9e-0ca62a215985" />
+  </Folder>
+  <Folder Name="/N17/Task/">
+    <Project Path="N17-T1/N17-T1.csproj" Id="9b9411a3-d77a-4435-895c-51e0ab6dd9a4" />
+    <Project Path="N17-T2/N17-T2.csproj" Id="7c9878c4-86d9-4de7-9077-2662edc739ea" />
+  </Folder>
+  <Folder Name="/N18/" />
+  <Folder Name="/N18/Hometask/">
+    <Project Path="N18-HT1/N18-HT1.csproj" Id="492787a4-52b4-44a1-82a4-5a5ba2c01228" />
+  </Folder>
+  <Folder Name="/N18/Task/">
+    <Project Path="N18-T1/N18-T1.csproj" Id="3aff8a68-cffc-4708-8179-ed7bbad04878" />
+  </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/Hometask/">
     <Project Path="N2-HT1/N2-HT1.csproj" Id="196b323d-7b8b-47ac-8c4c-83d78655b282" />
