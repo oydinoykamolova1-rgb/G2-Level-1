@@ -77,6 +77,22 @@
   <Folder Name="/N21/Task/">
     <Project Path="D:/IT beck end/backend/G2-Level-1/N21-T1/N21-T1.csproj" Id="96094310-4949-4e1f-a4da-f07b584c0032" />
   </Folder>
+  <Folder Name="/N23/" />
+  <Folder Name="/N23/hometask/">
+    <Project Path="N23-HT1/N23-HT1.csproj" Id="b0f39a62-6f21-43c7-8e05-f412f446d7fd" />
+    <Project Path="N23-HT2/N23-HT2.csproj" Id="c0d1a9bf-61fd-4526-b5be-54aa99be9590" />
+  </Folder>
+  <Folder Name="/N23/Task/">
+    <Project Path="N23-T1/N23-T1.csproj" Id="52d08e86-d515-407d-ae21-62814160d250" />
+  </Folder>
+  <Folder Name="/N24/" />
+  <Folder Name="/N24/HomeTask/">
+    <Project Path="N24-HT1/N24-HT1.csproj" Id="6992d16f-e215-4efb-8393-d5c1b2ea8b40" />
+    <Project Path="N24-HT2/N24-HT2.csproj" Id="426d2d1d-c2ba-4787-9ef5-a4689cba116b" />
+  </Folder>
+  <Folder Name="/N24/Task/">
+    <Project Path="N24-T1/N24-T1.csproj" Id="196c3a51-2219-429f-8849-31e6a11495c1" />
+  </Folder>
   <Folder Name="/N3/" />
   <Folder Name="/N3/hometask/">
     <Project Path="D:/IT beck end/backend/G2-Level-1/HT-N3/HT-N3.csproj" Id="0495a1ac-bc9c-47eb-8824-8977253164d7" />
