@@ -118,6 +118,9 @@
     <Project Path="N27-T1/N27-T1.csproj" Id="638c54a6-a4f9-4c8e-883c-79d51cfd839a" />
   </Folder>
   <Folder Name="/N28/" />
+  <Folder Name="/N28/HomeTask/">
+    <Project Path="N28-HT1/N28-HT1.csproj" Id="c70b11f6-9d4d-4396-88f4-b7a353629390" />
+  </Folder>
   <Folder Name="/N28/Task/">
     <Project Path="N28-T1/N28-T1.csproj" Id="a2c7dcd4-ee33-47fe-a616-530b810ea37f" />
   </Folder>
