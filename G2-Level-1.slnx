@@ -117,6 +117,10 @@
   <Folder Name="/N27/Task/">
     <Project Path="N27-T1/N27-T1.csproj" Id="638c54a6-a4f9-4c8e-883c-79d51cfd839a" />
   </Folder>
+  <Folder Name="/N28/" />
+  <Folder Name="/N28/Task/">
+    <Project Path="N28-T1/N28-T1.csproj" Id="a2c7dcd4-ee33-47fe-a616-530b810ea37f" />
+  </Folder>
   <Folder Name="/N3/" />
   <Folder Name="/N3/hometask/">
     <Project Path="D:/IT beck end/backend/G2-Level-1/HT-N3/HT-N3.csproj" Id="0495a1ac-bc9c-47eb-8824-8977253164d7" />
